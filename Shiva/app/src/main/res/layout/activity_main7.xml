@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main7Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="385dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="शिवकाळात स्वराज्य स्थापनेत महत्त्वाची भूमिका बजावणारे समर्थ रामदास यांनी हिंदवी स्वराज्याचे संस्थापक छत्रपती शिवाजी महाराज यांचे महानतम व युगप्रवर्तक असे व्यक्तिमत्त्व उपरोक्त परिपूर्ण, आशयघन व वजनदार अशा शब्दांत तोलले आहे. छत्रपतींच्या व्यक्तिमत्त्वाच्या व कार्यकर्तृत्वाच्या प्रत्येक पैलुचा उल्लेख या कवनात केलेला आहे.     ज्या काळी स्वातंत्र्याचा विचार करणंही जीवघेणं ठरायचं, त्या काळी ५ पातशाह्यांना तोंड देत हिंदवी स्वराज्याला स्वत:चं सिंहासन बहाल केलं ते छत्रपती शिवाजी महाराजांनी.  सुमारे ३०० वर्षे महाराष्ट्र पारतंत्र्यात, गुलामगिरीत खितपत पडला होता. दिल्लीचे मुघल, आदिलशाह, निजामशाह, कुतुबशाह यांच्या अत्याचाराने इथली गरीब जनता भरडली जात होती. साम्राज्यवादाने झपाटलेल्या सुलतानी आक्रमणांमुळे इथली घरे-दारे, पीक-पाणी, बायका-पोरी सुरक्षित नव्हत्या. याच काळात शहाजीराजे भोसले व जिजामाता यांच्या पोटी छत्रपती शिवाजी महाराजांचा जन्म फाल्गुन वद्य तृतीया शके १५५१ म्हणजेच १९ फेब्रुवारी, १६३० रोजी, (संदर्भ : श्री राजा शिवछत्रपती, गजानन मेहेंदळे, डायमंड पब्लिकेशन्स) पुणे जिल्ह्यातील, जुन्नर तालुक्यातील शिवनेरी गडावर झाला. वडिलांचा जाहगिरीचा प्रदेश बंगळूरचा (कर्नाटक) असल्यामुळे शिवबांची जडण-घडण त्यांच्या आई जिजाबाईंच्या सहवासात व त्यांच्याच मार्गदर्शनाखाली झाली. रामायण, महाभारत या गोष्टींचे शिवबांवर लहानपणापासून संस्कार झाले. या गोष्टींच्याच माध्यमातून त्यांची स्वराज्य प्रेरणा जिजाबाईंनी जागृत केली. राज्यशास्त्र, धर्मशास्त्र यांचा अभ्यास त्यांनी लहानपणीपासून मोठ्या कुशलतेने केला. त्याचबरोबर लाठीकाठी, तलवारबाजी, दांडपट्टा, घोडेस्वारी याबाबतीतही शिवबा पारंगत झाले.      मुरार जगदेवाने पुण्यावर गाढवाचा नांगर फिरवल्यानंतर त्या जाहगिरीचा ताबा जिजाबाईंनी घेतला. जिजाबाईंनी त्याच ठिकाणी सोन्याचा नांगर  फिरवून, लोकांना एकत्र करून पुन्हा पुणे हे गाव वसवलं. याच काळात जाहगिरीच्या कारभाराच्या निमित्ताने शिवाजी राजांचा संबंध इथल्या १२ मावळांमध्ये आला. या ठिकाणीच त्यांना प्रथम बालमित्र व नंतर स्वराज्याचे शिलेदार मिळाले. या काळातच त्यांचे नेतृत्वगुणही फुलायला लागले.  एका स्त्रीवर अत्याचार करणार्‍या एका गावाच्या पाटलाला त्यांनी हात-पाय तोडण्याची शिक्षा याच काळात सुनावली. आपल्या दक्ष न्यायव्यवस्थेचे उदाहरण रयतेसमोर ठेवले व स्वराज्याच्या पालकत्वाची जबाबदारी स्वीकारण्यास ते समर्थ असल्याचेही सिद्ध केले. वयाच्या १६ व्या वर्षी त्यांनी रायरेश्र्वराच्या पठारावर शिवलिंगाला स्वत:च्या रक्ताचा अभिषेक करून स्वराज्यस्थापनेची  शपथ घेतली. या वेळी सोबत त्यांचे जिवाभावाचे सवंगडी-मावळे होतेच. तोरणा जिंकून त्यांनी जणू स्वराज्य स्थापनेचे तोरणच बांधले. तोरण्यानंतर पुरंदर काबीज करणे, फत्तेखानाबरोबरची लढाई यामुळे शिवरायांचा आत्मविश्र्वास व निर्धार या दोन्ही गोष्टी वाढत गेल्या."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="305dp"
+        android:layout_marginTop="70dp"
+        app:srcCompat="@drawable/swaraj" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+
+            android:text="! स्वराज्यस्थापना  !"
+            android:textAlignment="center"
+            android:textColor="#6E0313"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

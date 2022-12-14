@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rotationX="-1"
+    tools:context=".FirstTimeMobile">
+
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/countrycodepickerlog"
+        android:layout_width="138dp"
+
+        android:layout_height="43dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        app:ccp_autoDetectCountry="true"
+
+        app:ccp_showNameCode="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.297" />
+
+    <TextView
+        android:id="@+id/nextotplog"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/buttonblur"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="Send OTP"
+        android:textColor="#8CC9FF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.564" />
+
+    <EditText
+        android:id="@+id/phonelogin"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="1dp"
+        android:background="@drawable/edittextback"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:hint="Phone Number"
+        android:inputType="number"
+        android:maxLength="10"
+        android:paddingLeft="15dp"
+        android:paddingRight="5dp"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.537"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.391" />
+
+    <TextView
+        android:id="@+id/textViewsm2"
+        android:layout_width="281dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="2dp"
+        android:paddingLeft="20dp"
+        android:text="You will recieve OTP from HelloStar Application"
+        android:textColor="#72493D3D"
+        android:textSize="11sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.468" />
+
+    <TextView
+        android:id="@+id/newusjjsher"
+        android:layout_width="165dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="2dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:paddingRight="5dp"
+        android:text="Don't have an account?"
+        android:textColor="#C6453D3D"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+    <TextView
+        android:id="@+id/newuserokkk"
+        android:layout_width="224dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="11dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:paddingLeft="152dp"
+        android:shadowDx="0"
+        android:text="Sign up."
+        android:textColor="#0E63B8"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

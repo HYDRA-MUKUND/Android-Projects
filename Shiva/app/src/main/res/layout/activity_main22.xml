@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main22Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="335dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="भारतात इंग्रज येण्यापूर्वी तिथीनुसार व्यवहार होत असत. इंग्रजी राज्य आल्यावर ग्रेगरीय दिनदर्शिकेनुसार व्यवहार होऊ लागले.  ग्रेगरीय दिनदर्शिका भारतात लागू झाल्यावर ज्यांचा जन्म झाला त्यांची जयंती तारखेने करतात. महात्मा फुले, महात्मा गांधी, डॉ. बाबासाहेब आंबेडकर, लोकमान्य टिळक या सर्व महापुरुषांचा जन्म भारतात ग्रेगरीय दिनदर्शिका लागू झाल्यावर झाला होता. त्यामुळे त्यांची जयंती तारखेने केली जाते.  तुकाराम, बसवेश्वर, शिवाजी, गौतम बुद्ध या साऱ्यांचा जन्म भारतात ग्रेगोरीय दिनदर्शिका लागू करण्यापूर्वी झालेला आहे. त्यांच्या काळात सारे व्यवहार तिथीने करत असत. त्यांचे जन्मदिवस तिथीने साजरे होतात.  आज ज्या ग्रेगोरीय दिनदर्शिकेनुसार शिवाजी महाराजांच्या जन्माची तारीख १९ फेब्रुवारी अशी निश्चित केली आहे, ते कॅलेंडर शिवाजीच्या वेळेला युरोपातसुद्धा प्रचलित नव्हते. इंग्रजांनी ग्रेगोरियन कॅलेंडर १७५२ साली स्वीकारले, तोपर्यंत त्यांच्या साम्राज्यात ज्युलियन दिनदर्शिका अधिकृत होती. ज्युलियन दिनदर्शिकेतील कालगणना व ग्रेगोरीय दिनदर्शिकेतील कालगणना यांच्यात १७०० सालपर्यंत १० दिवसांचा तर १७०० सालापासून पुढे ११ दिवसांचा फरक येतो. (ज्युलियन दिनदर्शिका पुढे गेली होती.) त्यामुळे ज्युलियन दिनदर्शिकेनुसार निर्धारित १९ फेब्रुवारी ही तारीख १० - ११ दिवसांनी चुकते. (४ ऑक्टोबर १५८२ ज्युलियन या तारखेनंतरचा पुढचा दिवस ग्रेगोरियन १५ ऑक्टोबर १५८२ येतो.). अनेक ठिकाणी शिवाजी महाराजांच्या जन्मावेळी जी कालगणना प्रचलित होती त्यानुसार शिवाजी जयंती तिथीनुसार साजरी केली जाते. सरकारी जयंती तारखेनुसार असते.  शिवाजीचा जन्म १६२७ साली झाला अशी जेव्हा मान्यता होती तेव्हा जयंतीची तिथी वैशाख शुद्ध तृतीया येत असे. जेव्हा जन्मसाल १६३० नक्की झाले तेव्हा तिथी फाल्गुन वद्य तृतीया येऊ लागली. शिवाजीच्या जन्मावेळी जर ग्रेगोरीय दिनदर्शिका प्रचलित असती तर १६३० सालची फाल्गुन वद्य तृतीया १९ फेब्रुवारीला आली असती. म्हणून, २००१ सालापासून १९ फेब्रुवारी ह्या तारखेला सरकारी शिवजयंती साजरी होते  शिवाजीच्या जयंतीला महाराष्ट्रात शिवजयंती म्हणतात. शिवाजीच्या जन्मतारखेबद्दल वाद असल्याने शिवजयंती महाराष्ट्रात वर्षभरात किमान दोनदा साजरी होते. त्या दिवशी दिवसभर ढोल-ताशे वाजवीत मिरवणुका निघतात आणि शिवाजीच्या पुतळ्यांना हार घालण्याचा कार्यक्रम होतो. मुंबईसारख्या शहरात शिवजयंतीच्या मिरवणुकीत १००च्या वर मालमोटारी व त्यांवर देखावे असतात.  भिवंडी आणि मालेगाव येथे या दिवशी अनेकदा दंगली झाल्या. इ.स. १९७० साली भिवंडीत शिवजयंतीची मिरवणूक मशिदीसमोर फार काळ रेंगाळल्यामुळे तुफान दंगल झाली. त्यामुळे भिवंडीत शिवजयंतीची मिरवणूक काढायला १४ वर्षांची बंदी घातली गेली. इ.स. १९८४ साली परवानगी मिळाली आणि त्यावर्षी झालेल्या भीषण दंगलीत अनेक वाहने जळून खाक झाली. त्यामुळे आता मिरवणुकीत सामील होण्यास वाहने मिळत नाहीत. प्रत्येक शिवजयंतीच्या एक आठवडा आधी भिवंडीतले झोपडपट्टीवासी आपले चंबूगबाळे आवरून झोपडी सोडून परगावी जातात."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="278dp"
+            android:layout_marginTop="63dp"
+            app:srcCompat="@drawable/jaydd" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="335dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! शिवाजी महाराजांची जयंती!!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main13Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="370dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="कोल्हापूरची लढाई मराठे-अदिलशाही युद्ध यातील एक भाग दिनांक डिसेंबर २८ १६५९ ठिकाण कोल्हापूर, महाराष्ट्र, भारत परिणती मराठ्यांचा विजय युद्धमान पक्ष मराठा साम्राज्य आदिलशाही सेनापती शिवाजी महाराज रुस्तमजमान सैन्यबळ ५,००० १०,००० बळी आणि नुकसान २,००० ७,०००  पार्श्वभूमी  शिवाजी महाराजांनी अफजलखानाचा नोव्हेंबर १० १६५९ रोजी वध करून त्याच्या सेनेचा प्रचंड धुव्वा उडवला व काही दिवसातच अतिशय आक्रामक भूमिका घेउन अनेक किल्ले आपल्या अखत्यारीत घेतले. डिसेंबर १६५९ मध्ये शिवाजी कोल्हापूर नजीक पन्हाळ्यानजीक पोहोचले व याच सुमारास अदिलशाही सरदार रुस्तमजमान मिरजेपाशी पोहोचला. [संपादन]लढाई  रुस्तमजमान कडे अनेक मातब्बर सरदार होते फ़ाजलखान, मलिक इत्बार, सादतखान, याकुबखान, हासन खान, संताजी घाटगे इत्यादी व त्याचे सैन्यबळही मोठे होते. शिवाजी महाराजांच्या सेनेत नेताजी पालकर , हणमंतराव खराटे, हिरोजी इंगले, भिमाजी वाघ इत्यादी सरदार होते. शिवाजी महाराज पन्हाळ्यावर आहेत असे कळाल्यानंतर पन्हाळ्यावर आक्रमणकरण्याच्या बेतात रुस्तमजमान होता. परंतु २८ डिसेंबरला पहाटेच अचानकपणे शिवाजी महाराजांनी रुस्तमजमानच्या सेनेवर जोरदार हल्ला चढवला. पुर्ण जोरदार हल्ला न चढवता पुढून मागून आजूबाजूने तुकड्यांनी हल्ले चढवले व आदिलशाही सेनेला नामोहरम केले. रुस्तमजमान रणांगण सोडून पळून गेला."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="60dp"
+            app:srcCompat="@drawable/kola" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! कोल्हापूरची लढाई !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

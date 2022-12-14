@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginback"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="350dp"
+        android:layout_height="53dp"
+        android:background="@drawable/login"
+        android:fontFamily="@font/allerta"
+        android:text="Log In"
+        android:textColor="#E9FFFFFF"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.674" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress"
+        android:layout_width="350dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/details"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:hint="Email id"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="58dp"
+        android:paddingRight="5dp"
+        android:textColor="#000000"
+        android:textColorHint="#86231717"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.43" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="350dp"
+        android:layout_height="53dp"
+        android:background="@drawable/details"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="58dp"
+        android:paddingRight="5dp"
+        android:textColor="#000000"
+        android:textColorHint="#86231717"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537" />
+
+    <ImageView
+        android:id="@+id/emailpng"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="12dp"
+        android:paddingRight="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.101"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.426"
+        app:srcCompat="@drawable/envelope" />
+
+    <ImageView
+        android:id="@+id/lockpng"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:paddingRight="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.101"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.537"
+        app:srcCompat="@drawable/pad" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonname"
+        android:layout_width="350dp"
+        android:layout_height="53dp"
+        android:background="@drawable/details"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:hint="Full name"
+        android:inputType="textPersonName"
+        android:paddingLeft="58dp"
+        android:paddingRight="5dp"
+        android:textColor="#000000"
+        android:textColorHint="#86231717"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.325" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

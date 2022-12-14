@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EmailFrag">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="405dp"
+        android:layout_height="243dp"
+        android:layout_marginBottom="140dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/emailauther"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:background="@drawable/edittextback"
+                android:ems="10"
+                android:fontFamily="@font/allerta"
+
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="12dp"
+                android:paddingRight="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.478"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.181" />
+
+            <EditText
+                android:id="@+id/passwordauther"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/edittextback"
+                android:ems="10"
+                android:fontFamily="@font/allerta"
+                android:hint="password"
+                android:inputType="textPassword"
+                android:paddingLeft="12dp"
+                android:paddingRight="45dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.478"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.497" />
+
+            <TextView
+                android:id="@+id/nextemail"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="175dp"
+                android:layout_marginBottom="33dp"
+                android:background="@drawable/buttonblur"
+                android:fontFamily="@font/allerta"
+                android:gravity="center"
+                android:text="Next"
+                android:textColor="#8CC9FF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.495"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.583" />
+
+            <ImageView
+                android:id="@+id/passwordhideandshowgg"
+                android:layout_width="22dp"
+                android:layout_height="26dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="6dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.814"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.497"
+                app:srcCompat="@drawable/hide" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

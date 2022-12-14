@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper"
+    tools:context=".Main5Activity">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="300dp"
+                android:layout_marginBottom="52dp"
+                android:paddingLeft="12dp"
+
+                android:paddingRight="5dp"
+                android:text="पुणे जिल्ह्यातील जुन्नर शहरानजीक वसलेल्या शिवनेरी या डोंगरी किल्ल्यावर इ.स. १६३० मध्ये छत्रपती शिवाजी महाराजांचा जन्म झाला. इतिहासाच्या अभ्यासकांमध्ये छत्रपती शिवाजी महाराजांची नेमकी जन्मतारीख हा एकेकाळी मतभेदांचा मुद्दा होता. तो वाद नंतर मिटला. महाराष्ट्र राज्य शासनाने फाल्गुन वद्य तृतीया शके १५५१ (शुक्रवार, १९ फेब्रुवारी १६३०) ही शिवरायांची जन्मतारीख २००१ साली स्वीकारली.[२] इतर संभाव्य तारखांमध्ये ६ एप्रिल १६२७ (वैशाख शुद्ध तृतीया) ही एक जन्मतारीख मानली जात होती. एका आख्यायिकेनुसार शिवनेरी गडावरील शिवाई देवीला जिजाबाईंनी आपल्याला बलवान पुत्र व्हावा अशी प्रार्थना केली होती म्हणून या मुलाचे नाव 'शिवाजी' ठेवले गेले. शिवाजी महाराजांच्या जन्माच्या वेळी दख्खनमधील राजसत्ता विजापूर, अहमदनगर आणि गोवळकोंडा या तीन मुसलमानी सल्तनतींमध्ये विभागलेली होती. शहाजीराजांनी आपली निष्ठा वेळोवेळी अहमदनगरची निजामशाही, विजापूरची आदिलशाही आणि मुघल यांच्यादरम्यान बदलली; पण त्यांनी पुणे ही नेहमीच आपली जहागिरी ठेवली आणि स्वतःची एक लहानशी फौज पदरी बाळगली."
+                android:textColor="#0E0E0E"
+                android:textSize="24sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="305dp"
+                android:layout_marginTop="30dp"
+                app:srcCompat="@drawable/birth" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="250dp"
+                android:layout_height="51dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="18dp"
+                android:text="! महाराजांचा जन्म !"
+                android:textAlignment="center"
+                android:textColor="#650211"
+                android:textSize="32sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </ScrollView>

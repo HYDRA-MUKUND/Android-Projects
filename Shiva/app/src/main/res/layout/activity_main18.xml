@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main18Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="398dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="जानेवारी ५, इ.स. १६६४ रोजी सुरतेचा फौजदार इनायत खानच्या सैन्याशी मराठा सैन्याची लढाई जुंपली. यात मुघल सैन्याचा धुव्वा उडाला. शिवाजी महाराजांनी आपल्या घोडदळाच्या अत्यंत वेगवान व्यूहात्मक हालचाली करीत ३०० किमी पल्ल्यावरुन सुरतेजवळ आणल्यामुळे हा विजय सुकर झाला.सुरतेहून पाळती बहिर्जी जासूद आला सुरतेची पोथी त्याने महाराजांपुढे वाचली आणि म्हणाला की, सुरत मारील्याने अगणित द्रव्य सापडेल, असे सांगितले त्याजवरून राजीयांनी विचार केला, आणि बेत निघाला सुरत बद् सुरत करण्याच्यासुरत म्हणजे औरंगजेबाच्या दारातील पारडू मेलेली दुभती म्हैसच होती. दिल्ली खालो खाल दिमाख होता सुरतेचा अशा ह्या सुरतेत औरंगजेबाच्या ५ हजार सैनिकांचा जागता पहारा. सुरतेभोवती अभेद्य तटबंदी राजगडापासून अंदाजे ३२५ किलोमीटर उत्तरेला असलेल्या ह्या सुरतेच्या प्रत्येक घराची खडान खडा माहिती राजांना होती कारण राजांचा तिसरा नेत्र सुरतेवर पाळत ठेवून होता तो तिसरा नेत्र म्हणजे बहिर्जी नाईक. सुरत म्हणजे ऐश्वर्य. अवघ्या जगातील व्यापाराच्या मोठ्या घडामोडी इथे चालत अठरा टोपीकर , इराणी ,हाफ्शी, तुराणी, बगदादी, अरबी, बोहरा, खोजा, यहुदी, अफघाणी, मुघली इत्यादी परदेशी व्यापारीहि इथून व्यापार करत असत. ह्या लोकांनी सुरत भरून गेली होती.औरंगजेबाच्या फौजेने ३ वर्षे रयत नासवली होती नागवली होती ह्याची भरपाई म्हणून महाराजांना सुरतेतील संपत्ती हवी होतीसुरतेवर निघण्याची तयारी जय्यत झाली आठ हजार घोडेस्वार तयार झाले निघण्याचा दिवस ठरला १५ डिसेंबर १६६३. आईं जगदंबेचे दर्शन घेऊन आणि आऊ साहेबांचा आशीर्वाद घेऊन राजे निघाले. मजल दरमजल करत ५ जानेवारी १६६४, मंगळवार शिवाजी महाराज सुरतजवळील घणदेवी येथे येऊन धडकले. (सकाळी १० वाजण्याच्या सुमारास) तेथून पूढे ते उधन्यास येऊन पोचले. उधन्यावरून शिवाजी महाराजांनी आपला वकील इनायतखान सुभेदाराकडे पाठवला. वकीलाने फर्मावले की, “इनायतखान सुभेदाराने व सुरतेतील नामवंत व्यापारांनी महाराज सांगतील तेवढी खंडणी भरण्याची व्यवस्था करावी. अन्यथा सुरतची बदसुरत झाल्यास त्याची जबाबदारी आमच्यावर नाही.” पण दिखाऊ कर्तबगारीचा तो इनायतखान बहादूर याने महाराजांचे सौजण्यशील फर्मान धुडकावून लाविलेत्या मगरूरी मुळे महाराजांनी सुरत लुटण्याची आज्ञा केली.सावकारांचे वाडे काबीज करून सोन, रूपे, मोतीं, पोवळे,माणीक, हिरे, पाचू, गोमेदराज, ,असे नवरत्ने; नाणे, मोहोरा, पुतळ्या , इभ्राम्या, सतराम्या,असफ्या, होन, नाणे नाना जातींचे इतका जिनसांच्या धोंकटीया भरल्या. कापड भांडे तांब्याचे वरकड अन्य जिन्नस यास हात लाविलाच नाही असे शहर चार दिवस अहोरात्र लुटिले (सभासद बखरीतील वर्णन)सुरत मनसोक्त लुटून महराज आल्या मार्गानेच निसटले.इतिहास काळापासूनचं लुट ह्या शब्दानेच अंगावरती काटे उभे राहतात, अर्थातच भयावह असणाऱ्या ह्या शब्दाला देखील महाराजांनी किती वेगळाच अर्थ दिला. लुट म्हटली की कत्तली ह्या अग्रभागीच कुणाचीच गय त्यात केली जात नाही. कुठलेही ठिकाण सोडले जात नाही पण परधर्माची मंदिरेच काय साध्या मुक्या जनावरांना देखील धक्का लागणार नाही अशी लुट घडविले माझ्या राजाने दिनांक ५ जानेवारी १६६४ पासून पुढे ४ दिवस हि लुट चालू होती"
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="337dp"
+            android:layout_marginTop="60dp"
+            app:srcCompat="@drawable/surat" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! सुरतेची पहिली लूट !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

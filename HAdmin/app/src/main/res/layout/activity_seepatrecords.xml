@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDFAF6"
+    tools:context=".Seepatrecords">
+
+    <TextView
+        android:id="@+id/bsddsdhdateendnnd"
+        android:layout_width="209dp"
+        android:layout_height="39dp"
+
+        android:layout_marginBottom="516dp"
+
+        android:gravity="center"
+        android:text="Location of Accident :"
+        android:textColor="#110B0B"
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.252"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/akfjsdfdlfsnk"
+        app:layout_constraintVertical_bias="0.418" />
+
+    <TextView
+        android:id="@+id/yurehjdsfiewjsdk"
+        android:layout_width="185dp"
+        android:layout_height="47dp"
+
+        android:gravity="center"
+        android:paddingTop="4dp"
+        android:text="No of Patients :"
+        android:textColor="#110B0B"
+
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.132"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/akfjsdkkfqfdlfsnk"
+        android:layout_width="439dp"
+        android:layout_height="62dp"
+        android:background="@drawable/backone"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:paddingLeft="3dp"
+        android:text=" DETAILS"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/gotoambrecords"
+        android:layout_width="32dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.041"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.022"
+        app:srcCompat="@drawable/arleft" />
+
+
+    <TextView
+        android:id="@+id/yursjskjsehjdsfiewjsdk"
+        android:layout_width="115dp"
+        android:layout_height="50dp"
+
+        android:gravity="center"
+        android:paddingTop="4dp"
+        android:text="Date-Time :"
+        android:textColor="#110B0B"
+
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.172"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.637" />
+
+    <ImageView
+        android:id="@+id/deleteambdata"
+        android:layout_width="34dp"
+        android:layout_height="43dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="6dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.004"
+        app:srcCompat="@drawable/trashbinone" />
+
+    <TextView
+        android:id="@+id/viewdateandtime"
+        android:layout_width="170dp"
+        android:layout_height="65dp"
+
+        android:background="@drawable/upback"
+        android:gravity="center"
+        android:paddingTop="4dp"
+        android:text=""
+
+        android:textColor="#06519A"
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.73"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.639" />
+
+    <TextView
+        android:id="@+id/viewnoofpat"
+        android:layout_width="115dp"
+        android:layout_height="50dp"
+
+        android:background="@drawable/upback"
+        android:gravity="center"
+        android:paddingTop="4dp"
+        android:text=""
+
+        android:textColor="#06519A"
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.695"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.502" />
+
+    <TextView
+        android:id="@+id/viewlocation"
+        android:layout_width="324dp"
+        android:layout_height="90dp"
+        android:background="@drawable/upback"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:paddingTop="4dp"
+
+        android:text=""
+        android:textColor="#06519A"
+        android:textSize="21sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.712"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.347" />
+</androidx.constraintlayout.widget.ConstraintLayout>

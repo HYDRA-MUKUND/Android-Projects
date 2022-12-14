@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Types">
+
+    <TextView
+        android:id="@+id/choose"
+        android:layout_width="439dp"
+        android:layout_height="62dp"
+        android:background="@drawable/backone"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:paddingLeft="3dp"
+        android:text="HOSPITAL DATABASE"
+        android:textColor="#ffffff"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/patients"
+        android:layout_width="330dp"
+        android:layout_height="58dp"
+        android:background="@drawable/backone"
+        android:fontFamily="@font/aldrich"
+        android:gravity="center"
+        android:paddingLeft="3dp"
+        android:text="PATIENTS RECORDS"
+        android:textColor="#FFFFFF"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.457" />
+
+    <TextView
+        android:id="@+id/ambulance"
+        android:layout_width="330dp"
+        android:layout_height="58dp"
+        android:background="@drawable/backone"
+        android:fontFamily="@font/aldrich"
+        android:gravity="center"
+        android:paddingLeft="3dp"
+        android:text="AMBULANCE RECORDS"
+        android:textColor="#FFFFFF"
+        android:textSize="21sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.594" />
+
+    <ImageView
+        android:id="@+id/imageViewchoose"
+        android:layout_width="40dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.043"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.01"
+        app:srcCompat="@drawable/background" />
+
+    <ImageView
+        android:id="@+id/docpic"
+        android:layout_width="115dp"
+        android:layout_height="90dp"
+        android:layout_marginBottom="480dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/updatepatrecord"
+        app:layout_constraintVertical_bias="0.127"
+        app:srcCompat="@drawable/doctor" />
+</androidx.constraintlayout.widget.ConstraintLayout>

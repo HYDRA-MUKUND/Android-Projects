@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main19Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="347dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="इ.स. १६६६ साली औरंगजेबाने शिवाजीराजांना दिल्ली येथे भेटीसाठी आणि विजापूरवर त्यांनी केलेल्या आक्रमणावर चर्चा करण्यास बोलाविले. त्यानुसार शिवाजीराजे दिल्लीला पोहोचले. त्यांच्यासोबत नऊ वर्षांचा संभाजी देखील होता. परंतु दरबारात त्यांना कनिष्ठ सरदारांच्या समवेत उभे करून शिवाजीसारख्या राजांचा उपमर्द केला. या अपमानामुळे अतिशय नाराज होऊन शिवाजीराजे तडक दरबाराबाहेर पडले असता त्यांना तत्क्षणी अटक करून नजरकैदेत ठेवण्यात आले. लवकरच त्यांची रवानगी जयसिंहाचे पुत्र मिर्झाराजे रामसिंग यांच्याकडे आग्रा येथे करण्यात आली.  शिवाजीबद्दल आधीपासूनच धास्ती असल्यामुळे त्यांच्यावर कडक पहारा ठेवला होता. काही दिवस निघून गेले. सुटकेसाठी प्रयत्‍न फोल ठरले होते. शेवटी शिवाजीराजांनी एक योजना आखली. त्या योजनेनुसार त्यांनी आजारी पडल्याचे निमित्त केले आणि त्यांच्या प्रकृतिस्वास्थ्यासाठी विविध मंदिरांना व दर्ग्यांना मिठाईचे पेटारे पाठविण्यात येऊ लागले. सुरुवातीला पहारेकरी प्रत्येक पेटारा बारकाईने तपासून पहात पण काही दिवसांनी यात ढिलाई होऊ लागली. नंतर त्यांनी तपासण्याचेदेखील सोडले. या गोष्टीचा फायदा घेऊन एक दिवस शिवाजीराजे आणि संभाजी एकेका पेटाऱ्यामध्ये बसून निसटण्यात यशस्वी झाले. कोणास संशय येऊ नये यास्तव शिवाजीराजांचा विश्वासू हिरोजी फर्जंद हा शिवरायांचे कपडे चढवून आणि त्यांची अंगठी दिसेल अशा पद्धतीने हात बाहेर काढून झोपल्याचे नाटक करीत होता. शिवराय दूरवर पोहोचल्याची खात्री आल्यावर तो देखील पहारेकऱ्यांना बगल देऊन निसटला. बराच वेळ आतमध्ये काही हालचाल नाही हे वाटून पहारेकरी आत गेले असता त्यांना तेथे कोणीही आढळले नाही तेव्हा त्यांना सत्य परिस्थिती समजली. तोपर्यंत शिवाजी निसटून २४ तास झाले होते.  आग्रा येथून शिवाजीराजांनी वेषांतर केले आणि लगोलग स्वराज्याकडे न जाता मथुरेकडे गेले, तेथे संभाजीला त्यांनी वेगळ्या मार्गाने काही दुसऱ्या विश्वासू माणसांबरोबर पाठविले. एका संन्याशाच्या वेषात महाराष्ट्रात प्रवेश केला. त्यातदेखील त्यांना अनेक खबरदाऱ्या घ्याव्या लागल्या. ते स्वतः अतिशय लांबच्या आणि तिरकस, वाकड्या मार्गाने मजल-दरमजल करीत आले. उद्देश हाच होता की काही झाले तरी पुन्हा औरंगजेबाच्या हातात पडायचे नाही.  यात आणखी एक गोष्ट उल्लेखनीय आहे. दिल्लीभेटीपूर्वी त्यांनी राज्यकारभारासाठी जे अष्टप्रधानमंडळ स्थापले होते, त्या मंडळाने राजांच्या अनुपस्थितीमध्ये देखील राज्याचा कारभार चोख चालविला होता. हे शिवाजीराजांचे आणि अष्टप्रधानमंडळाचे फार मोठे यश आहे."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="278dp"
+            android:layout_marginTop="63dp"
+            app:srcCompat="@drawable/agra" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! आगऱ्याहून सुटका !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

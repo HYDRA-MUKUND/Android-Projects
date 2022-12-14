@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main11Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="379dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text='आदिलशहाच्या ताब्यात असणारे किल्ले जिंकत राहिल्यामुळे इ.स. १६५९ साली आदिलशहाने दरबारात शिवाजी महाराजांना संपविण्याचा विडा ठेवला. हा विडा दरबारी असलेल्या अफझलखान नावाच्या सरदाराने उचलला. मोठ्या सैन्यासह आणि लवाजम्यासह अफझलखान मोहिमेवर निघाला. अफझलखान वाईजवळ आला तेव्हा शिवाजीराजांनी सध्याच्या महाबळेश्वरजवळ असलेल्या प्रतापगडावरून त्यास तोंड देण्याचे ठरवले. तहाची बोलणी सुरू झाली आणि अंतिम बोलणीसाठी शिवाजी महाराजांनी स्वतः यावे असा अफझलखानचा आग्रह होता. पण शिवाजीराजांच्या वकिलांनी (पंताजी गोपीनाथ बोकील यांनी) अफझलखानाला गळ घालून प्रतापगडावरच भेट घेण्यास बोलावले. भेटीच्या नियमांनुसार दोन्ही पक्षांकडील मोजकीच माणसे भेटीसाठी येतील आणि दरम्यान सर्वांनी नि:शस्त्र राहण्याचे ठरले.  शिवाजीराजांना अफझलखानच्या दगाबाजपणाची कल्पना असल्यामुळे त्यांनी सावधगिरी म्हणून चिलखत चढविले आणि सोबत बिचवा तसेच वाघनखे ठेवली. बिचवा चिलखतामध्ये दडविला होता तर वाघनखे हाताच्या पंजाच्या आतमध्ये वळविलेली असल्यामुळे दिसणारी नव्हती. शिवाजी महाराजांसोबत जिवा महाला हा विश्वासू सरदार होता तर अफझलखानसोबत सय्यद बंडा हा तत्कालीन प्रख्यात असा दांडपट्टेबाज होता. प्रतापगडावरील एका छावणीमध्ये भेट ठरली. भेटीच्या वेळी उंचपुऱ्या, बलदंड अफझलखानाने शिवाजी महाराजांना मिठी मारली आणि शिवाजीराजांचे प्राण कंठाशी आले. त्याच वेळी अफझलखानने कट्यारीचा वार शिवाजी महाराजांवर केला परंतु चिलखतामुळे शिवाजीराजे बचावले. अफझलखानाचा दगा पाहून शिवाजीराजांनी वाघनखे खानाच्या पोटात घुसवली. त्याचबरोबर अफझलखानाची प्राणांतिक आरोळी चहूकडे पसरली. सय्यद बंडाने तत्क्षणी शिवाजीवर दांडपट्ट्याचा जोरदार वार केला जो तत्पर जिवा महालाने स्वतःवर झेलला आणि शिवाजीराजांचे प्राण वाचले. यामुळेच "होता जिवा म्हणून वाचला शिवा" ही म्हण प्रचलित झाली.  आधीच ठरलेल्या इशाऱ्याप्रमाणे भेटीच्या वेळी तीन तोफांचे बार प्रतापगडावरून काढण्यात आले, आणि खानाच्या छावणीच्या जवळपासच्या झाडाझुडुपांमध्ये दडून बसलेल्या मावळ्यांनी हल्ला करून खानाच्या सैन्याची दाणादाण उडविली. खानाचा मुलगा फाजलखान आणि इतर काही सरदार लपूनछपून वाईच्या मुख्य छावणीपर्यंत आले. इथे खानाचा जनाना होता. ते पाठलागावर असलेल्या नेताजीच्या सैन्यापासून वाचण्यासाठी खजिना, हत्ती व इतर जड सामान टाकून विजापूरला जनान्यासकट पळाले. शिवाजीराजांना जनतेत मिळालेला आदर आणि प्रेम अनेक शतकांनंतरही टिकून आहे त्यामागचे त्यांची सहिष्णू वृत्ती हे फार महत्त्वाचे कारण आहे. अफझलखानाच्या मृत्यूनंतर त्यांनी त्याच्या शवाचे अंत्यसंस्कार इस्लामी पद्धतीने करून त्याची एक कबर प्रतापगडावर बांधली आणि त्या कबरीच्या कायम देखभालीची व्यवस्था केली.  अफझलखानच्या मृत्यूनंतर शिवाजीराजांनी दोरोजी नावाच्या सरदाराला कोकणपट्ट्यातील आणखी किल्ले आणि प्रदेश जिंकण्यास पाठवले. स्वतः राजे सातारा प्रांतात घुसून कोल्हापुरापर्यंत गेले व त्यांनी पन्हाळा जिंकून घेतला. नेताजीने त्याच्या सैन्यासह जवळपास विजापुरापर्यंत धडक मारली.'
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="60dp"
+            app:srcCompat="@drawable/afjal" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="! अफजलखान !"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+</ScrollView>

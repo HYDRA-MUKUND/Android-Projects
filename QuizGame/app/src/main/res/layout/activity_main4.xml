@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back2"
+    tools:context=".Main4Activity">
+
+    <TextView
+        android:id="@+id/timertext"
+        android:layout_width="109dp"
+
+        android:layout_height="66dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/ready"
+        android:gravity="center"
+        android:text="00:30"
+        android:textColor="#E61102"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/countertext"
+        android:layout_width="106dp"
+        android:layout_height="40dp"
+        android:background="@drawable/but"
+        android:gravity="center"
+        android:text="0/0"
+        android:textColor="#061B94"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.846"
+        app:layout_constraintStart_toEndOf="@+id/timertext"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.07" />
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="406dp"
+        android:layout_height="297dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/button0"
+            android:layout_width="202dp"
+            android:layout_height="146dp"
+            android:layout_row="0"
+            android:layout_rowWeight="0"
+            android:layout_column="0"
+            android:layout_columnWeight="0"
+            android:background="@drawable/button"
+            android:onClick="click"
+            android:tag="button0"
+            android:text="Button"
+            android:textColor="#720683"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="203dp"
+            android:layout_height="146dp"
+            android:layout_row="0"
+            android:layout_rowWeight="0"
+            android:layout_column="1"
+            android:layout_columnWeight="0"
+            android:background="@drawable/button"
+            android:onClick="click"
+            android:tag="button1"
+            android:text="Button"
+            android:textColor="#0D680D"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="202dp"
+            android:layout_height="145dp"
+            android:layout_row="1"
+            android:layout_rowWeight="0"
+            android:layout_column="0"
+            android:layout_columnWeight="0"
+            android:background="@drawable/button"
+            android:onClick="click"
+            android:tag="button2"
+            android:text="Button"
+            android:textColor="#000000"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="203dp"
+            android:layout_height="145dp"
+            android:layout_row="1"
+            android:layout_rowWeight="0"
+            android:layout_column="1"
+            android:layout_columnWeight="0"
+            android:background="@drawable/button"
+            android:onClick="click"
+            android:tag="button3"
+            android:text="Button"
+            android:textAllCaps="true"
+            android:textColor="#05335A"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+    </GridLayout>
+
+    <TextView
+        android:id="@+id/playername"
+        android:layout_width="170dp"
+        android:layout_height="46dp"
+        android:background="@drawable/but"
+        android:gravity="center"
+        android:text="Mukund"
+        android:textColor="#6F0781"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.005" />
+
+    <TextView
+        android:id="@+id/quetext"
+        android:layout_width="243dp"
+        android:layout_height="66dp"
+
+        android:gravity="center"
+        android:text="2+34= ?"
+        android:textColor="#000000"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/gridLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timertext"
+        app:layout_constraintVertical_bias="0.684" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100441931959",
+    "firebase_url": "https://fir-practice-28919.firebaseio.com",
+    "project_id": "fir-practice-28919",
+    "storage_bucket": "fir-practice-28919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100441931959:android:a8dd7bec76752371df8d32",
+        "android_client_info": {
+          "package_name": "com.hydra.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100441931959-5v0bbrlnfmpvcrsmfnjj73ip3l9qljir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydra.myapplication",
+            "certificate_hash": "0600853b3b3fdc5003e48fb386c2270f403e19f5"
+          }
+        },
+        {
+          "client_id": "100441931959-v4tl9pmt3naddq8kr7mje31n1l9pl4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5Qzjp7tWfU9jsU7GcjD_CANkUIypU3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100441931959-v4tl9pmt3naddq8kr7mje31n1l9pl4ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

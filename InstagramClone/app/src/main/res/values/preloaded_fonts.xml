@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/actor</item>
+        <item>@font/aladin</item>
+        <item>@font/allerta</item>
+        <item>@font/armata</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/cabin_medium</item>
+    </array>
+</resources>

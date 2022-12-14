@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main14Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="360dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="अफझलखानच्या मृत्यूमुळे चिडलेल्या आदिलशहाने त्याचा सेनापती सिद्दी जौहर यास सर्व शक्तीनिशी हल्ला करण्याचा आदेश दिला. इ.स. १६६० साली झालेले हे आक्रमण स्वराज्यावरील अनेक मोठ्या संकटांपैकी एक समजले जाते. त्यासुमारास शिवाजीराजे मिरजेच्या किल्ल्याला वेढा घालून होते. सिद्दीच्या आक्रमणाची बातमी येताच राजे पन्हाळगडावर गेले आणि सिद्दी जौहरला त्याचा सुगावा लागताच त्याने गडालाच वेढा घातला आणि गडाची रसद तोडली. काही दिवस गडावरील सर्वांनी तग धरली पण सिद्दीचा वेढा उठण्याचे काही लक्षण दिसेना तेव्हा सर्वांशी खलबत करून शिवाजीराजांनी जवळच्या विशालगडावर पोहोचावे असा निर्णय घेतला. पन्हाळगडावरून एके रात्री शिवाजीराजे आणि काही मंडळी गुप्त रस्त्याने शिताफीने निसटले. ह्याचा पत्ता लागताच सिद्दी जौहरने सिद्दी मसऊदच्या बरोबर काही सैन्य पाठलागावर रवाना केले."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="60dp"
+            app:srcCompat="@drawable/siddi" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! सिद्दी जौहरचे आक्रमण !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

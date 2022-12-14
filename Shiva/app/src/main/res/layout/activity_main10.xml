@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main10Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="320dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="सन १६४६ मधे शिवरायांनी जावळीच्या चंद्रराव मोरे घराण्यातील दत्तकपुत्राला अप्रत्यक्षपणे पाठींबा दिला होता. त्यामुळे नवीन चंद्रराव त्याच्याशी सलोख्याने वागेल अशी अपेक्षा करणे चुकीचे नव्हते. सन १६४९ च्या काही दिवस आधी चंद्ररावचा चुलत भाऊ हणमंतरावने जोर खोरे घेतले. हा भाग अफजलखानकडे असलेल्या वाई परगण्यातला होता. हणमंतरावाकडून जोर खोरे घेण्यासाठी अफजलखानने केलेली चाल पुढे सरकली नाही. ह्यानंतर मोरे घराण्याच्या हलचालींमुळे शिवरायांच्या मुलुखातील प्रजेला उपसर्ग होऊ लागला. मोरे त्याचे शेजारीच असल्याने त्याचा काहीतरी बंदोबस्त करणे भाग होते. शिवरायांनी चंद्ररावला लिहीले होते की त्याने राजे ही पदवी वापरु नये व शिवरायांशि इमान राखावा. हा उल्लेख मोरे बखरीमधे सापडतो. ह्यावर चंद्ररावाच्या उत्तराने शिवरायानबरोबरचे संबंध धोक्यात आणले. त्यामुळे हे स्पष्ट होते की शिवरायांचे जावळीवरचे आक्रमण मुख्यतः राजकारणासाठीच होते. सभासद बखरीत शिवरायांच्या जावळी युद्धाचे कारण स्पष्ट होते ... चंद्रराव मोरे यांस मारल्याविरहित राज्य साधत नाही ।       शिवरायांकडे दहा हजारांचे सैन्य होते असे म्हटले आहे पण बहुदा ही अतिशयोक्ती असावी. जावळीवर एकाच वेळी दोन बाजूंनी आक्रमण करायची त्याची योजना होती. त्याने रडतोंडीच्या घाटाकडे एक टोळी पाठवली. तिला चंद्ररावाच्या लोकांनी अडविले. दुसरी मोठी टोळी घेऊन राजे स्वतः महाबळेश्वराच्या पठारावरुन निसाणी घाटाने जावळीकडे गेले . १५ जानेवारी १६५६ ला जावळी शिवरायांकडे आली व ३० मार्च पर्यंत राजे तिथे राहिले . चंद्रराव मोरे जावळीतून निसटला व रायरीला, म्हणजे रायगडला गेला. जावळीमधे काही प्रतिकार झाला असावा ज्यामुळे शिवरायांना तिथे ३० मार्चपर्यंत राहावे लागले. राजे तिथे असताना त्याच्या लोकांनी रायरीलाही वेढा घातला असावा. जावळी सोडल्यावर ६ एप्रिल १६५६ ला शिवाजी राजे रायरीला पोहोचले . त्यानंतर लगेच चंद्ररावाने हत्यार टाकले व कृष्णाजी व बाजी ह्या त्याच्या दोन मुलांसह त्याला बंदी बनविण्यात आले. बंदिवासातून चंद्ररावाने पळण्याचा प्रयत्न केला व त्याने घोरपडेला लिहीलेले पत्र शिवरायांनी अडविले. चंद्रराव व कृष्णाजीचा शिरच्छेद करण्यात आला व बहुदा त्याचा दुसरा मुलगा बाजी निसटला. हा उल्लेख मिरझा राजे जयसिंहने औरंगजेबला १६६५ मधे लिहीलेल्या पत्रात सापडतो"
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="40dp"
+            app:srcCompat="@drawable/jawali" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="243dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="जावळी प्रकरण !"
+            android:textAlignment="center"
+            android:textColor="#630412"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

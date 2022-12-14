@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".patientsrecord">
+
+    <TextView
+        android:id="@+id/akfjsdfdlfsnk"
+        android:layout_width="439dp"
+        android:layout_height="62dp"
+        android:background="@drawable/backone"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:paddingLeft="3dp"
+        android:text="PATIENTS DATABASE"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/gototyp"
+        android:layout_width="32dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.041"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/akfjsdfdlfsnk"
+        app:layout_constraintVertical_bias="0.022"
+        app:srcCompat="@drawable/arleft" />
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="393dp"
+        android:layout_height="559dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ListView
+                android:id="@+id/listdata"
+                android:layout_width="match_parent"
+                android:layout_height="550dp"
+                android:paddingLeft="8dp">
+
+            </ListView>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <SearchView
+        android:id="@+id/searchview"
+        android:layout_width="380dp"
+        android:layout_height="53dp"
+        android:background="@drawable/upback"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/akfjsdfdlfsnk"
+        app:layout_constraintVertical_bias="0.107" />
+
+    <TextView
+        android:id="@+id/skjdfskdf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="136dp"
+        android:layout_marginBottom="6dp"
+        android:fontFamily="@font/allerta"
+
+        android:gravity="center"
+        android:text="Name of Patient  ( Mob. number )"
+        android:textColor="#000000"
+        android:textSize="19sp"
+        app:layout_constraintBottom_toBottomOf="@+id/scrollView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.355"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.195" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

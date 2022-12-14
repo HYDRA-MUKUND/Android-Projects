@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512229312033",
+    "firebase_url": "https://authentication-60513.firebaseio.com",
+    "project_id": "authentication-60513",
+    "storage_bucket": "authentication-60513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512229312033:android:774b0d9e0b7aaed0248560",
+        "android_client_info": {
+          "package_name": "com.hydra.firebasetutone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512229312033-61ierc95pnh3g2poctorsm66ellkqg27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydra.firebasetutone",
+            "certificate_hash": "0600853b3b3fdc5003e48fb386c2270f403e19f5"
+          }
+        },
+        {
+          "client_id": "512229312033-rfjifpqjp1j2o270179mtre06bfqsds5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagnAJBTNPUAo5RvePD4nids4RnSVx0Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512229312033-rfjifpqjp1j2o270179mtre06bfqsds5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

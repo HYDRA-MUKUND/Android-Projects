@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main16Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="381dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="इ.स. १६४९ मध्ये आदिलशहाने शहाजीराजांना कैदेत टाकले. याच वेळी शिवाजी महाराजांनी अनेक आदिलशाही किल्ले आपल्या ताब्यात घेतले. म्हणून शिवाजीचा बन्दोबस्त करण्यासाठी आदिलशहाने फत्तेखानास रवाना केले. शिवाजी महाराजांसाठी परिस्थिती फारच बिकट होती. एकीकडे वडील शहाजीराजे कैदेत होते तर दुसरीकडे फत्तेखानाच्या स्वारीमुळे स्वराज्य धोक्यात येणार होते. महाराजांनी यावेळी लढाईसाठी पुरन्दर किल्ल्याची जागा निवडली. मात्र यावेळी गड मराठ्यांच्या ताब्यात नव्हता. महादजी निळकण्ठराव यांच्या ताब्यात किल्ला होता. त्यांच्या भावभावांमधील भाण्डणाचा फायदा उठवून महाराजांनी किल्ल्यात प्रवेश करण्यात यश मिळवले. या पुरन्दर किल्ल्याच्या आश्रयाने मराठ्यांनी फत्तेखानाशी झुंज दिली आणि लढाई जिंकली. शिवाजी महाराजांना या पहिल्या लढाईतच मोठे यश प्राप्त झाले. सन १६५५ मध्ये शिवाजीराजांनी नेताजी पालकर यास गडाचा सरनौबत नेमले. वैशाख शु. १२ शके १५७९ म्हणजेच १४ मे १६५७ गुरुवार या दिवशी सम्भाजी राजांचा जन्म पुरंदरावर झाला. पुरंदरचा तह या विजयानंतर शिवाजी पश्चिम किनाऱ्यावरील सुरतच्या मुख्य बंदर शहरात दाखल झाला. शहराच्या मोगल राज्यपालांनी शिवाजीला बोलण्यासाठी एक दूत पाठविला, पण शिवाजीने दूताला अटक केली आणि सलग days दिवस सुरत चोरुन नेले. औरंगजेबाकडून जयसिंग यांच्या नेतृत्वात प्रचंड सैन्याच्या रूपात सूड उगवला. पराभव अपरिहार्य आहे हे समजून शिवाजीने १६५६ च्या जूनमध्ये पुरंदर करारावर स्वाक्षरी केली. या कराराच्या अटींनुसार शिवाजी शरण जाण्यास तयार झाले.   शाहिस्तेखानाच्या पराभवाने, सुरतेच्या लुटीने, जसवन्तसिंहाच्या पराभवाने औरंगजेबाचा सन्ताप वाढत होता.सत्तर हजारांची सेना घेऊन शाहिस्तेखान गेला व बोटे गमावून माघारी आला. दिल्लीसम्राटांची व्यापारपेठ सुरत बघता बघता लुटली गेली.शिवाजीचा असाच उद्योग चालू राहिला तर मोगलाई सम्पुष्टात आल्याखेरीज राहणार नाही हे औरंगजेबाने ओळखले. शिवाजीचे पारिपत्य करण्यासाठी त्याने आपल्या दरबारचा सर्वश्रेष्ठ सरदार निवडला. मिर्झाराजा जयसिंह ऐंशी हजार स्वार, बरोबरी दिलेरखान, पाच हजार पठान घेऊन शिवाजीचे पारिपत्य करण्यासाठी निघाला. मिर्झाराजांनी पुरन्दरला वेढा घातला. दिलेरखानाने वज्रगडाचा ताबा घेतला. वज्रगडावरून पुरन्दरवर तोफांचा मारा सुरु करण्यात आला. तोफांच्या हल्ल्याने पुरन्दरच्या खिण्डार पडले. मोगल सेनेने किल्ल्यात प्रवेश केला. माचीवर खानाचे आणि मुरारबाजीचे घनघोर युद्ध झाले. मुरारबाजी पडला आणि त्याच बरोबर पुरन्दरही पडला. हे वर्तमान जेव्हा राजांना कळले तेव्हा त्यांनी जयसिंहाशी तहाचे बोलणे सुरू केले आणि ११ जून १६६५ साली इतिहास प्रसिद्ध 'पुरन्दरचा तह' झाला.  यात २३ किल्ले राजांना मोगलांना द्यावे लागले. "
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="67dp"
+            app:srcCompat="@drawable/purandar" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="238dp"
+            android:layout_height="53dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+
+            android:text="!! पुरंदराचा तह !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

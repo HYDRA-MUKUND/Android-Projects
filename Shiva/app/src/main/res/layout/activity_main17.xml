@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main17Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="347dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="मोगल साम्राज्याचा नर्मदा नदीपलीकडे विस्तार, तसेच शिवाजी महाराजांच्या राज्यविस्ताराला वेसण घालणे या दोन हेतूंसाठी औरंगजेबाने त्याचा मामा शाहिस्तेखान याला दख्खनच्या मोहिमेवर पाठविले. प्रचंड मोठा लवाजमा, सैन्य आणि फौजफाटा सोबत घेऊन शाहिस्तेखान निघाला आणि वाटेत असणार्‍या प्रत्येक राज्यात, गावात त्याने दहशत पसरवीत जमेल तेवढा जमेल तेथे विध्वंस केला. शेवटी पुण्याजवळील चाकणचा किल्ला जिंकून पुण्यातील शिवाजीराजांच्या लाल महालातच तळ ठोकला. शिवाजीराजांनी खानाचा बंदोबस्त करण्यासाठी एक धाडसी निर्णय घेतला तो म्हणजे लाल महालात शिरून खानाला संपविण्याचा. लाल महालात आणि अवतीभोवती खडा पहारा असे आणि महालात शिरणे अतिशय जोखमीचे काम होते.  एके रात्री लाल महालाजवळून जाणार्‍या एका लग्नाच्या मिरवणुकीचा आधार घेऊन काही मोजक्या माणसांसह स्वतः शिवाजी महाराज लाल महालात शिरले. महालाचा कानाकोपरा माहीत असल्यामुळे लवकरच प्रत्यक्ष शाहिस्तेखानच्या खोलीत शिवाजी महाराजांनी प्रवेश केला. तोपर्यंत महालात कोठेतरी झटापट सुरू झाल्यामुळे शाहिस्तेखानला जाग आली आणि तेवढ्यातच शिवाजीराजांना समोर पाहून खानाने जीव वाचविण्यासाठी सरळ खिडकीतून खाली उडी घेतली. शिवाजी महाराजांनी चपळाईने केलेला वार हुकल्यामुळे खानाच्या प्राणावर बेतण्याऐवजी त्याची तीन बोटे कापली गेली. या प्रकरणामुळे मोगल साम्राज्याची जी नाचक्की झाली ती स्वराज्यासाठी अधिकच फायद्याची ठरली. जे राजे मोगलांच्या आश्रयामुळे शिवाजी महाराजांना जुमानत नसत ते आता शिवाजीराजांच्या पराक्रमामुळे त्यांच्या बाजूने झुकले. आणखी एक वेगळा परिणाम या प्रकरणामुळे झाला, तो म्हणजे शिवाजीराजांना मिळालेला मानवी क्षमतेपेक्षा मोठा दर्जा आणि त्यामुळे जोडलेल्या दंतकथा.  अनेकदा या गोष्टीचा अप्रत्यक्ष फायदा शिवाजी महाराज किंवा त्यांच्या सैन्याला मिळाला. शत्रू सैन्यामध्ये शिवाजी महाराज घुसल्याच्या केवळ अफवा पसरवून संख्येने किरकोळ असलेल्या मावळ्यांनी संख्येने अनेक पटींनी मोठ्या सैन्याची उडविलेली दाणादाण ही याच गोष्टीची साक्ष देऊ शकते. इ.स. १६६३ सालचे शाहिस्तेखान प्रकरण शिवाजीराजांच्या जीवनात आणखी एका नाट्यमय प्रसंगाची भर घालून गेले"
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="278dp"
+            android:layout_marginTop="63dp"
+            app:srcCompat="@drawable/shahis" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! शाहिस्तेखान प्रकरण !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>

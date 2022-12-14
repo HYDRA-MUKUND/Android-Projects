@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="208dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="262dp"
+        android:layout_marginTop="222dp"
+        android:layout_marginEnd="91dp"
+        android:layout_marginBottom="490dp"
+        android:text="TextView"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.428" />
+
+    <TextView
+        android:id="@+id/strr"
+        android:layout_width="232dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="391dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginBottom="321dp"
+        android:text="TextView"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

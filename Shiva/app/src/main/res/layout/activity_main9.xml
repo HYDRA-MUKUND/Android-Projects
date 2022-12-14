@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main9Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="370dp"
+            android:layout_marginBottom="52dp"
+
+            android:paddingLeft="12dp"
+            android:paddingRight="5dp"
+            android:text="शिवाजीराजांच्या यशस्वी स्वाऱ्या बिथरून शिवाजीराजांना आळा घालण्याची एक युक्ती म्हणून आदिलशहाने शहाजीराजांना अटक केली. शिवाय सुमारे ५००० फौज घेऊन फत्तेखान नावाच्या सरदाराला शिवाजीराजांवर हल्ला करण्यास पाठवले. शिवाजीराजांनी पुरंदरावर फत्तेखानाचा पराभव केला. बाजी पासलकर सैन्यासकट पळत्या फत्तेखानाच्या पाठलागावर सासवडपर्य़ंत गेले. सासवडजवळ झालेल्या लढाईत बाजी पासलकरांचा मॄत्यू झाला. शिवाजीराजांनी मोगल बादशाह शाहजहान यास त्याच्या दख्खनच्या सुभेदाराकरवी (शहजादा मुरादबक्ष) पत्र पाठवून शहाजीराजांसकट त्याच्या चाकरीत जायची इच्छा प्रकट केली. त्याचा परिणाम म्हणून शाहजहानाने आदिलशहावर दबाव आणला आणि परिणामी शहाजीराजांची सुटका झाली. परंतु त्यासाठी शिवाजीराजांना कोंढाणा किल्ला, आणि शहाजीराजांना बंगळूर शहर आणि कंदर्पीचा किल्ला आदिलशहाला द्यावा लागला."
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="60dp"
+            app:srcCompat="@drawable/atak" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="286dp"
+            android:layout_height="47dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="शहाजीराजांना अटक!"
+            android:textAlignment="center"
+            android:textColor="#6C0212"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+</ScrollView>

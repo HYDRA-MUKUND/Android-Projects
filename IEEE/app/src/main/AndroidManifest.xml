@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hydra.ieee">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_mainlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IEEE">
+        <activity android:name=".PersonDetails"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".Admininfo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StudentWindow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Adminwindow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".loginforAdmin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".loginforstudent"
+            android:screenOrientation="portrait" />
+        <activity android:name=".adminchecker" />
+        <activity
+            android:name=".studentregister"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Adminregister"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Types"
+            android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

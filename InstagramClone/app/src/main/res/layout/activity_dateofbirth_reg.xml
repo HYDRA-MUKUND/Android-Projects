@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DateofbirthReg">
+
+    <EditText
+        android:id="@+id/dateofbirth"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:background="@drawable/edittextback"
+        android:fontFamily="@font/allerta"
+        android:gravity="center|start"
+        android:inputType="text"
+        android:paddingLeft="17dp"
+        android:paddingRight="10dp"
+        android:text="Date Of Birth"
+        android:textColor="#190C0C"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.337" />
+
+    <ImageView
+        android:id="@+id/calenderfrag"
+        android:layout_width="39dp"
+        android:layout_height="42dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419"
+        app:srcCompat="@drawable/calendar" />
+
+    <TextView
+        android:id="@+id/nextdateofbirth"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="Next"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.531" />
+
+    <TextView
+        android:id="@+id/newkkuseasdjksdrslffs"
+        android:layout_width="165dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="2dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:paddingRight="5dp"
+        android:text="Already have an account?"
+        android:textColor="#C9453D3D"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.381"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+    <TextView
+        android:id="@+id/alredayhaveloginbirth"
+        android:layout_width="224dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="11dp"
+        android:fontFamily="@font/actor"
+        android:gravity="center"
+        android:paddingLeft="157dp"
+        android:text="Log In."
+        android:textColor="#0E63B8"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.937" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="105dp"
+        android:layout_height="104dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.071"
+        app:srcCompat="@drawable/birthdaycake" />
+
+    <TextView
+        android:id="@+id/tedkjajdxtView"
+        android:layout_width="209dp"
+        android:layout_height="30dp"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="Add Your Birthday"
+        android:textColor="#D0000000"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.226" />
+</androidx.constraintlayout.widget.ConstraintLayout>

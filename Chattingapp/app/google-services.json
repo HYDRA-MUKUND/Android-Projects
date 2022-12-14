@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130424287101",
+    "firebase_url": "https://chatting-application-f8d38.firebaseio.com",
+    "project_id": "chatting-application-f8d38",
+    "storage_bucket": "chatting-application-f8d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130424287101:android:6a5f5492ed729058a86614",
+        "android_client_info": {
+          "package_name": "com.hydra.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130424287101-kd5pob9q1541jpuh4q247i91a1a37n45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydra.chattingapp",
+            "certificate_hash": "0600853b3b3fdc5003e48fb386c2270f403e19f5"
+          }
+        },
+        {
+          "client_id": "130424287101-h16vdh1dg3a397i0023bk135c9nho2j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9N7foxLqGMULw63Wvnx2n8_C5KBK2l2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130424287101-h16vdh1dg3a397i0023bk135c9nho2j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

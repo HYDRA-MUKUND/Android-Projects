@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main20Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="382dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text='रायगडावर ६ जून इ.स. १६७४ रोजी शिवाजी महाराज यांनी गागाभट्ट यांच्याकडून आपला राज्याभिषेक करवून घेतला. राज्याभिषेक सोहळा साठी त्यांनी ३२ मण सोन्याचे सिंहासन बनवुन घेतले. एक मोठा भव्यदिव्य असा राज्याभिषेक सोहळा पार पडला. रयतेला राजा मिळाला. त्या दिवसापासून शिवाजीराजांनी शिवराज्याभिषेक शक सुरू केला आणि शिवराई हे चलन जारी केले. रायरीचे नाव रायगड असे बदलले. अनेक देशी विदेशी राजे सरदार यांच्या उपस्थितीत हा सोहळा पार पडला.  साडेचार् हजार राजांना निमंत्रणे गेली. रायगडावर साडेचार हजार राजे जमले. गागाभट्टानि पवित्र साप्तनद्यांचे पाणी आणले. राजे ब्रम्हा मुहूर्तावर उठले, स्नान केले, शिवाई मातेला अभिषेक केला आणि जिजाऊ मातांचे दर्शन घेतले. कवड्यांच्या माळा घातल्या, जिरेटोप डोक्यावर घातला, भवानी तलवार कंबरेला जोडली आणि राजे गड फिरू लागले.  राजे सभागृहात आल्याबरोबर साडेचार हजार राजांनी मानवंदना दिली, बत्तीस मणांचे सिंहासन वर ठेवलेले होते त्याला तीन पायर्या होत्या. पहिल्या पायरीवर पाऊल ठेवल्यावर राजांचे हृदय हेलावले, राजांच्या डोळ्यात अश्रू भरून आले आणि चटकन आठवण आली "राजे लाख मेले तरी चालतील पण लाखांचा पोशिंदा मरता कामा नये, शिवा न्हावी कितीही जन्माला येतील परंतु रयतेचा राजा, शिवाजी राजा पुन्हा जन्माला येणे नाही राजे". राजांच्या डाव्या डोळ्यातून अश्रू गळाले.  राजांनी दुसर्या पायरीवर पाय ठेवला आणि आठवण आली ” राजे तुम्ही सुखरूप विशालगडावर जावा आणि पाच तोफांची सलामी द्यावी. जोपर्यंत हे कान पाच तोफांची सलामी ऐकत नाही न राजे तोपर्यंत हा बाजीप्रभू देशपांडे देह ठेवणार नाही राजे.” राजांच्या उजव्या डोळ्यातून अश्रू गळाला. तिसर्या पायरीवर पाऊल ठेवल्याबरोबर आठवण आली “राजे आधी लगीन कोंडाण्याचे आणि मग माझ्या रायबाच. जगून वाचून आलोना राजे तर लेकराच लग्न करीन नाहीतर माय बाप समजून तुम्हीच लग्न लावून टाका. ” राजे धळाधळा रडू लागले.  साडेचार हजार राजांना कळेना काय झाले. आज आनंदाचा दिवस, अनाथ झालेल्या हिंदुना बाप भेटणार, शिवाजी राजा होणार आणि राजांच्या डोळ्यातून अश्रू … तोच तिथे उभ्या असलेल्या एका वडीलधार्या व्यक्तीला राजांनी आवाज दिला. मदारी काका जवळ आले आणि विचारले राजे आज आनंदाचा दिवस आणि तुम्ही रडताय. त्यावर राजे म्हणाले काका ज्यांच्यामुळे मला सिंहासन मिळाले तेच पाहायला राहिले नाहीत. कोणत्या तोंडाने या सिंहासनावर बसू काका. हे सिंहासन टोचेल मला. यातून उतराई होण्यासाठी काहीतरी मार्ग सांगा. या गेलेल्यांचे पाईक म्हणून तुम्ही काहीतरी मागा. मदारी काकांनी सांगितले ” राजा अरे ते गेले तरी त्यांनी काही मागितले नाही, माझ्यासारख्याने काय मागावे ? ” राजे म्हणाले काहीतरी मागा काका म्हणजे मला उतराई होता येईल. यावर मदारी काका म्हणतात ” हे असेच म्हणतो ना शिवबा तर एकच दे, या बत्तीस मणांच्या सिंहासनाची चादर बदलण्याचे काम राजे या गरिबाला दे मला दुसरे काही नको.”  स्वाभिमानाची साक्षात मूर्ती असलेले शिवाजी राजे आजच्या दिवशी छत्रपती झाले. तमाम पोरक्या झालेल्या जनतेला राजा मिळाला. वडिलोपार्जित छत्राखाली नव्हे तर स्वतः मावळ्यांच्या मदतीने उभारलेल्या छत्राखाली शिवाजी राजे बसले आणि स्वयंघोषित नव्हे तर लोक घोषित छत्रपती बनले.'
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="305dp"
+            android:layout_marginTop="65dp"
+            app:srcCompat="@drawable/raj" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="297dp"
+            android:layout_height="57dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="!! राज्याभिषेक सोहळा !!"
+            android:textAlignment="center"
+            android:textColor="#6E0515"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

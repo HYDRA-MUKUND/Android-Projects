@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Phonefrag">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="395dp"
+        android:layout_height="243dp"
+        android:layout_marginBottom="140dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <com.hbb20.CountryCodePicker
+                android:id="@+id/countrycodepickerreg"
+                android:layout_width="138dp"
+
+                android:layout_height="43dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                app:ccp_autoDetectCountry="true"
+
+                app:ccp_showNameCode="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.102" />
+
+            <TextView
+                android:id="@+id/nextotp"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="7dp"
+                android:layout_marginBottom="18dp"
+                android:background="@drawable/buttonblur"
+                android:fontFamily="@font/allerta"
+                android:gravity="center"
+                android:text="Next"
+                android:textColor="#A1D4EF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.453"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="1.0" />
+
+            <EditText
+                android:id="@+id/phoneauther"
+                android:layout_width="290dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/edittextback"
+                android:ems="10"
+                android:fontFamily="@font/allerta"
+                android:hint="Phone Number"
+                android:inputType="number"
+                android:maxLength="10"
+                android:paddingLeft="15dp"
+                android:paddingRight="5dp"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.382" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="281dp"
+                android:layout_height="20dp"
+                android:paddingLeft="20dp"
+                android:text="You will recieve OTP from HelloStar Application"
+                android:textColor="#72493D3D"
+                android:textSize="11sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.627" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

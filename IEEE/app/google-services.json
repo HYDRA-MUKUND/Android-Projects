@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60328413664",
+    "firebase_url": "https://ieee-b3376.firebaseio.com",
+    "project_id": "ieee-b3376",
+    "storage_bucket": "ieee-b3376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60328413664:android:bb511bfbe44dfe67a10385",
+        "android_client_info": {
+          "package_name": "com.hydra.ieee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60328413664-ab0k91so2r5egl3ggn88v1jsm0abr922.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydra.ieee",
+            "certificate_hash": "0600853b3b3fdc5003e48fb386c2270f403e19f5"
+          }
+        },
+        {
+          "client_id": "60328413664-2ef7hq26c7ap49cjv2lftr05uumeskr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoF_8t25XCHdBgRqvU1m1XOL2sprUxKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60328413664-2ef7hq26c7ap49cjv2lftr05uumeskr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

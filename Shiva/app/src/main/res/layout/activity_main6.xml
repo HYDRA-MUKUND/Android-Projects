@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity"
+    android:background="@drawable/paper">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="355dp"
+        android:layout_marginBottom="40dp"
+        android:paddingLeft="12dp"
+
+        android:paddingRight="5dp"
+        android:text="कौटुंबिक माहिती शहाजीराजे भोसले (वडील) हे प्रथम अहमदनगरच्या निजामशहाच्या पदरी एक सरदार म्हणून होते. मलिक अंबर ह्या निजामशहाच्या प्रभावी वजिराच्या मृत्यूनंतर मोगल सम्राट शहाजहानच्या सैन्याने इ.स. १६३६ मध्ये अहमदनगरवर चाल करून ते शहर आपल्या ताब्यात घेतल्यानंतर शहाजीराजे विजापूरच्या आदिलशहाच्या पदरी सरदार म्हणून रूजू झाले. आदिलशहाने त्यांना पुण्याची जहागिरी दिली. शहाजीराजांनी तुकाबाईंशी आपला दुसरा विवाह केला. लहान शिवाजीराजांना घेऊन जिजाबाई पुण्याला रहायला आल्या. तुकाबाई आणि शहाजीराजे ह्यांच्या एकोजी भोसले (व्यंकोजी भोसले) ह्या पुत्रांनी पुढे सध्याच्या तमिळनाडूमधील तंजावरला आपले राज्य स्थापन केले.  जिजाबाई (आई) जिजाबाई पुण्यात रहायला गेल्या त्यावेळी पुण्याची फार दुरवस्था झालेली होती. तेव्हा छोटे शिवाजीराजे आणि कारभारी ह्यांच्या हस्ते पुण्यात एका शेतात प्रतीकादाखल सोन्याच्या मुलाम्याचा नांगर फिरवून, जिजाबाईंनी पुण्याची पुन:स्थापना करायला सुरुवात केली. शिवाजीराजे लहानाचे मोठे होत असताना आणि मोठे झाल्यावरही (मोठेपणीच्या सिंहगडावरच्या स्वारीसारख्या) प्रत्येक महत्त्वाच्या प्रसंगी त्यांना जिजाबाईंनी खंबीर मार्गदर्शन दिले. शिवाजीमहाराजांच्या त्या आद्यगुरू होत. हिंदवी स्वराज्यस्थापनेचे स्वप्न साकार करायला शिवाजीमहाराजांना जिजाबाईंनी स्फूर्ती दिली असे काही इतिहासकार मानतात.  मार्गदर्शक लोककथा आणि इतिहास ह्यांमध्ये कालौघात पुष्कळदा सरमिसळ होते आणि त्यामुळे इतिहासाचा नेमका मागोवा घेणे कठीण होते. शिवाजीमहाराजांच्या बाबतीत ती सरमिसळ खूपच आहे; परिणामी शिवाजीराजांना कोणाचे मार्गदर्शन किती मिळाले हे नक्की ठरवणे निदान आज तरी कठीण आहे. युद्धाभ्यास आणि रणनीती तसेच राजकारभार ह्यासंबंधी प्राथमिक मार्गदर्शन त्यांना शहाजीराजांकडून, दप्तरव्यवस्था व न्यायव्यवस्थेचे शिक्षण दादोजी कोंडदेव मलठणकर यांजकडून, तर परकीय सत्तेविरूद्ध लढा करण्याकरता आवश्यक असलेल्या शिस्तीचे शिक्षण जिजाबाईंकडून मिळाले असे मात्र उपलब्ध ऐतिहासिक माहितीवरून निश्चितपणे सांगता येते. जिजाबाई यांनी बाल शिवाजीमहाराजांच्या शिक्षणाची जबाबदारी घेऊन त्यांस युद्धकला व राजनीतिशास्त्राचे शिक्षण देवविले. शिवाय संत एकनाथ महाराजांच्या भावार्थ रामायण, भारूड इत्यादींच्या माध्यमातून बाल शिवबाच्या मनात स्वराज्याचे स्फुल्लिंग चेतविले."
+        android:textColor="#0E0E0E"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="0dp"
+        app:srcCompat="@drawable/child" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="200dp"
+        android:layout_height="51dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="18dp"
+        android:paddingLeft="30dp"
+        android:text="!! बालपण !!"
+        android:textAlignment="center"
+        android:textColor="#6E0313"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="170dp"
+        android:layout_height="260dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="1dp"
+        android:text="सईबाई निंबाळकर, सोयराबाई मोहिते, पुतळाबाई पालकर, लक्ष्मीबाई विचारे, काशीबाई जाधव, सगणाबाई शिंदे, गुणवंतीबाई इंगळे, सकवारबाई गायकवाड."
+        android:textColor="#0E0E0E"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="-35dp"
+        android:layout_marginEnd="200dp"
+        android:text="पत्नी: "
+        android:textColor="#0E0E0E"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
+
+</ScrollView>

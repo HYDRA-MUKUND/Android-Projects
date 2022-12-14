@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/registerback"
+    tools:context=".Types">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="415dp"
+        android:layout_height="44dp"
+        android:background="#F4450D"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="370dp"
+        android:layout_height="65dp"
+        android:background="@drawable/type"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="CHOOSE  TYPE"
+        android:textAlignment="center"
+        android:textColor="#F6F0F0"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/typestudentlogin"
+        android:layout_width="305dp"
+        android:layout_height="59dp"
+        android:background="@drawable/typeback"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="STUDENT"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.608" />
+
+    <TextView
+        android:id="@+id/typefacultylogin"
+        android:layout_width="305dp"
+        android:layout_height="59dp"
+        android:background="@drawable/typeback"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="CO-ORDINATOR"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.485" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="109dp"
+        android:layout_height="113dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.25"
+        app:srcCompat="@drawable/user" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="366dp"
+        android:layout_height="35dp"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="Only Co-ordinators will have admin access"
+        android:textColor="#9ABDDF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.977" />
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="84dp"
+        android:layout_height="35dp"
+        android:fontFamily="@font/allerta"
+        android:gravity="center"
+        android:text="Note"
+        android:textColor="#9ABDDF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.942" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

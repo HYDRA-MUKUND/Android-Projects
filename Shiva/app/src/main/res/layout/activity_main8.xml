@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main8Activity"
+    android:background="@drawable/paper">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="370dp"
+            android:layout_marginBottom="52dp"
+            android:paddingLeft="12dp"
+
+            android:paddingRight="5dp"
+            android:text="इ.स. १६४७ मधे सतरा वर्षांच्या शिवाजीराजांनी आदिलशहाच्या ताब्यातला तोरणगड जिंकला आणि स्वराज्याची मुहूर्तमेढ रोवली. तोरणगड हे स्वराज्याचे तोरणच ठरले. त्याच साली शिवाजीराजांनी कोंढाणा(सिंहगड), आणि पुरंदर हे किल्ले आदिलशहाकडून जिंकून पुणे प्रांतावर पूर्ण नियंत्रण मिळवले.या शिवाय तोरणगडासमोरील मुरुंबदेवाचा डोंगर जिंकून त्याची डागडुजी केली व त्याचे नाव त्यांनी राजगड असे ठेवले. तोरणगड तोरणा किल्ला शिवाजी महाराजांनी सुरुवातीच्या काळात जे काही किल्ले घेतले त्यापैकी एक किल्ला तोरणा. गडावर तोरण जातीची पुष्कळ झाडी असल्यामुळे गडाचे नाव पडले तोरणा. महाराजांनी गडाची पहाणी करतांना याच्या प्रचंड विस्तारामुळे याचे ‘प्रचंडगड’ असे नाव ठेवले.पुणे जिल्ह्याच्या वेल्हा तालुक्यातून गेलेल्या सह्याद्रीच्या रागेंतून दोन पदर निघून पूर्वेला पसरत गेलेले आहेत. यापैकी पहिल्या पदरावर तोरणा व राजगड वसलेले आहेत तर दुसऱ्या पदराला भुलेश्वर रांग म्हणतात. पुण्याच्या नैऋत्येस असलेल्या पर्वतराजीमध्ये उत्तर अक्षांश व पूर्व रेखांशावर हा किल्ला आहे. याच्या दक्षिणेला वेळवंडी नदी व उत्तरेला कानद नदीचे खोरे आहे. गडाच्या पश्चिमेला कानद खिंड, पूर्वेला बामण व खरीव खिंडी आहेत"
+            android:textColor="#0E0E0E"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="305dp"
+        android:layout_marginTop="60dp"
+        app:srcCompat="@drawable/torna" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="200dp"
+            android:layout_height="51dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="18dp"
+            android:text="! तोरणाचा विजय !"
+            android:textAlignment="center"
+            android:textColor="#680312"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</ScrollView>
